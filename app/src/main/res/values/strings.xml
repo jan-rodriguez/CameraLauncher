@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Launcher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_pic">Take Picture</string>
+    <string name="pic_image">picture image</string>
+    <string name="instructions">Take photo then click image to catify!</string>
+</resources>
